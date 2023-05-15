@@ -1,7 +1,8 @@
 # Jakub Owczarek
 `Data Scientist` `Software Developer`
 <br>
-I'm a Junior Data Scientist in an R&D team at Codete and a third year student of Data Engineering and Analysis on AGH UST with almost one year of experience in generally speaking Data Science and Data Analysis and more precisely in developing machine learning models and applying them on real world data-related problems, in MLOps and software development. 
+
+I'm a Junior Data Scientist in an R&D team at Codete and a third year student of Data Engineering and Analysis on AGH UST with almost one year of experience in developing machine learning models, applying them on real world data-related problems, in MLOps and software development. 
 
 <a href="https://www.linkedin.com/in/owczarek-jakub">
          <img alt="linkedin" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin-svgrepo-com"/>
