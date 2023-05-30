@@ -18,6 +18,7 @@ I'm a Junior Data Scientist in an R&D team at [Codete](https://codete.com/) and 
 <img align="left" alt="MLflow" width="56px" style="padding-right:10px;" src="https://spark.apache.org/images/mlflow-logo.png">
 <img align="left" alt="Anaconda" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 <img align="left" alt="Jupyter" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="left" alt="PowerBI" width="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 <img align="left" alt="Django" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 <img align="left" alt="PostGreSQL" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="Linux" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
