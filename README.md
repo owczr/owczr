@@ -8,22 +8,22 @@ I'm a Junior Data Scientist in an R&D team at [Codete](https://codete.com/) and 
          <img alt="linkedin" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin-svgrepo-com"/>
 </a> 
 <hr>
-<img align="left" alt="Python" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="left" alt="Tensorflow" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<img align="left" alt="Scikit-Learn" width="56px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<img align="left" alt="Scipy" width="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
-<img align="left" alt="Pandas" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img align="left" alt="NumPy" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img align="left" alt="Spark" width="56px" style="padding-right:10px;" src="https://spark.apache.org/images/spark-logo-trademark.png">
-<img align="left" alt="MLflow" width="56px" style="padding-right:10px;" src="https://spark.apache.org/images/mlflow-logo.png">
-<img align="left" alt="Anaconda" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-<img align="left" alt="Jupyter" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="left" alt="PowerBI" width="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-<img align="left" alt="Django" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-<img align="left" alt="PostGreSQL" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="left" alt="Linux" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="left" alt="Git" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="left" alt="Docker" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<img align="left" alt="Python" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Tensorflow" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img align="left" alt="Scikit-Learn" width="54px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img align="left" alt="Scipy" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
+<img align="left" alt="Pandas" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img align="left" alt="NumPy" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img align="left" alt="Spark" width="54px" style="padding-right:10px;" src="https://spark.apache.org/images/spark-logo-trademark.png">
+<img align="left" alt="MLflow" width="54px" style="padding-right:10px;" src="https://spark.apache.org/images/mlflow-logo.png">
+<img align="left" alt="Anaconda" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+<img align="left" alt="Jupyter" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="left" alt="PowerBI" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+<img align="left" alt="Django" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img align="left" alt="PostGreSQL" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="left" alt="Linux" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="left" alt="Git" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left" alt="Docker" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 
 <!--
 **owczr/owczr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
