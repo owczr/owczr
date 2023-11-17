@@ -46,16 +46,12 @@ I'm a Data Scientist at [Shell](https://shell.com/), and a last year student of 
 <img align="left" alt="Spark" height="40px" style="padding-right:10px;" src="https://spark.apache.org/images/spark-logo-trademark.png">
 <img align="left" alt="Anaconda" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 <img align="left" alt="Jupyter" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<br clear="left"/>
-<sub>Pandas / NumPy / SciPy / Spark / Anaconda / Jupyter</sub>
-
-### Data Visualization
 <img align="left" alt="PowerBI" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 <img align="left" alt="Matplotlib" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg">
 <img align="left" alt="Seaborn" height="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 <img align="left" alt="Plotly" height="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg">
 <br clear="left"/>
-<sub>PowerBI / Matplotlib / Seaborn / Plotly</sub>
+<sub>Pandas / NumPy / SciPy / Spark / Anaconda / Jupyter / PowerBI / Matplotlib / Seaborn / Plotly</sub>
 
 ### Cloud Services
 <img align="left" alt="Azure" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
