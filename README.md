@@ -11,7 +11,10 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
          <img align="left" alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/-Kaggle-white?style=for-the-badge&logoColor=white&logo=kaggle-icon-small"/>
 </a> 
 <br clear="left">
-<hr>
+
+## Stats
+
+![owczr's GitHub stats](https://github-readme-stats.vercel.app/api?username=owczr&show_icons=true)
 
 ## Tech Stack
 
