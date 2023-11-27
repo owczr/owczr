@@ -5,9 +5,12 @@
 I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year student of Data Engineering and Analysis on [AGH UST](https://www.agh.edu.pl/) with academic and professional experience in developing data science solutions using machine learning and deep learning models, applying them on real world data-related problems, in MLOps and in software development. 
 
 <a href="https://www.linkedin.com/in/owczarek-jakub">
-         <img alt="linkedin" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin-svgrepo-com"/>
+         <img align="left" alt="linkedin" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin-svgrepo-com"/>
 </a> 
-
+<a href="https://www.kaggle.com/owczar">
+         <img align="left" alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/-Kaggle-white?style=for-the-badge&logoColor=white&logo=kaggle-icon-small"/>
+</a> 
+<br clear="left">
 <hr>
 
 ## Tech Stack
