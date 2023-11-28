@@ -19,6 +19,7 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 
 <br clear="left">
 <p></p>
+<hr>
 
 ## GitHub Stats
 
