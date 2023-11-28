@@ -18,6 +18,7 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 </a> 
 
 <br clear="left">
+
 <p></p>
 <hr>
 
@@ -28,6 +29,23 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 
 ## Tech Stack
 
+<img align="left" alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Jupyter" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="left" alt="Bash" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+<img align="left" alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left" alt="Docker" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<img align="left" alt="Tensorflow" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img align="left" alt="Keras" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+<img align="left" alt="Scikit-Learn" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img align="left" alt="Sktime" height="40px" style="padding-right:10px;" src="https://www.sktime.net/en/v0.21.1/_static/sktime-logo-text-horizontal.png">
+<img align="left" alt="Langchain" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png">
+<img align="left" alt="OpenAI GPT API" height="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/306500/openai.svg">
+<img align="left" alt="Azure" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="left" alt="Google Cloud Platform" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+<br clear="left"/>
+<p></p>
+<sub>Python / Jupyter / Bash / Git / Docker / Tensorflow / Keras / Scikit-Learn / Sktime / Langchain / OpenAI API / Azure / GCP</sub>
+<!--
 ### Software Development
 <img align="left" alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Bash" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -47,8 +65,9 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 <img align="left" alt="Scikit-Learn" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <img align="left" alt="XGBoost" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
 <img align="left" alt="MLflow" height="40px" style="padding-right:10px;" src="https://spark.apache.org/images/mlflow-logo.png">
-<!-- <br clear="left"/>
-<p></p> -->
+<br clear="left"/>
+<p></p>
+
 <img align="left" alt="Sktime" height="40px" style="padding-right:10px;" src="https://www.sktime.net/en/v0.21.1/_static/sktime-logo-text-horizontal.png">
 <img align="left" alt="Langchain" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png">
 <img align="left" alt="OpenAI GPT API" height="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/306500/openai.svg">
@@ -103,6 +122,8 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 <img align="left" alt="Apache Server" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
 <br clear="left"/>
 <sub>Django / HTML5 / CSS3 / Nginx / Apache Server</sub>
+-->
+
 <!--
 **owczr/owczr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
