@@ -10,6 +10,12 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year
 <a href="https://www.kaggle.com/owczar">
   <img align="left" alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/-Kaggle-white?style=for-the-badge&logoColor=white&logo=kaggle-icon-small"/>
 </a> 
+<a href="https://www.shell.com">
+  <img align="left" alt="Shell" title="Shell" src="https://custom-icon-badges.demolab.com/badge/-Shell-red?style=for-the-badge&logoColor=white&logo=briefcase"/>
+</a> 
+<a href="https://www.agh.edu.pl">
+  <img align="left" alt="AGH" title="AGH" src="https://custom-icon-badges.demolab.com/badge/-AGH-black?style=for-the-badge&logoColor=white&logo=book-open"/>
+</a> 
 
 <br clear="left">
 
