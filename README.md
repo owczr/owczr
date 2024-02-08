@@ -2,7 +2,7 @@
 `Data Scientist` `Machine Learning Engineer` `Software Developer`
 <br>
 
-I'm an Associate Data Scientist at [Shell](https://shell.com/), and a final year student of Data Engineering and Analysis on [AGH UST](https://www.agh.edu.pl/) with academic and professional experience in developing data science solutions using machine learning and deep learning models, applying them on real world data-related problems, in MLOps and in software development. 
+I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional experience and academic knowledge in Data Science, Machine Learning Engineering and MLOps. My skills resolve around developing artificial intelligence and machine learning solutions and applying them on real world data-related problems, in processing and analyzing different kinds of datasets for useful insights and in developing machine learning pipelines. 
 
 <a href="https://www.linkedin.com/in/owczarek-jakub">
   <img align="left" alt="linkedin" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin-svgrepo-com"/>
