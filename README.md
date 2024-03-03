@@ -24,19 +24,22 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional
 
 <img align="left" alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Jupyter" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="left" alt="Bash" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-<img align="left" alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="left" alt="Docker" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<img align="left" alt="Scikit-Learn" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <img align="left" alt="Tensorflow" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="left" alt="Keras" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-<img align="left" alt="Scikit-Learn" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<img align="left" alt="Langchain" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png">
-<img align="left" alt="OpenAI GPT API" height="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/306500/openai.svg">
+<img align="left" alt="Apache Spark" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
+<img align="left" alt="SQL Server" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 <img align="left" alt="Azure" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img align="left" alt="Google Cloud Platform" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+<img align="left" alt="Django" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+<img align="left" alt="Arch Linux" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+<img align="left" alt="Bash" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+<img align="left" alt="Docker" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+<img align="left" alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+
 <br clear="left"/>
 <p></p>
-<sub>Python / Jupyter / Bash / Git / Docker / Tensorflow / Keras / Scikit-Learn / Langchain / OpenAI API / Azure / GCP</sub>
+<sub>Python / Jupyter / Scikit-Learn / Tensorflow / Keras / Apache Spark / SQL Server / Azure / Django / Arch Linux / Bash / Docker / Git </sub>
 
 <hr>
 
