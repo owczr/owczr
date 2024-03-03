@@ -1,5 +1,5 @@
 # Jakub Owczarek
-`Data Scientist` `Machine Learning Engineer` `Software Developer`
+`Data Scientist` `Machine Learning Engineer` `MLOps`
 <br>
 
 I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional experience and academic knowledge in Data Science, Machine Learning Engineering and MLOps. My skills resolve around developing artificial intelligence and machine learning solutions and applying them on real world data-related problems, in processing and analyzing different kinds of datasets for useful insights and in developing machine learning pipelines. 
