@@ -1,11 +1,3 @@
-<div align="center">
-<pre>   _____      _____ _____ __ 
-  / _ \ \ /\ / / __|_  / '__|
- | (_) \ V  V / (__ / /| |   
-  \___/ \_/\_/ \___/___|_|   
-</pre>
-</div>
-
 # Jakub Owczarek
 `Data Scientist` `Machine Learning Engineer` `MLOps`
 <br>
@@ -28,7 +20,8 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional
 <br clear="left">
 
 <p></p>
-<hr>
+
+## Tech stack
 
 <img align="left" alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Jupyter" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
@@ -49,7 +42,8 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional
 <p></p>
 <sub>Python / Jupyter / Scikit-Learn / Tensorflow / Keras / Apache Spark / SQL Server / Azure / Django / Arch Linux / Bash / Docker / Git </sub>
 
-<hr>
 
-| <picture><source srcset="https://github-readme-stats.vercel.app/api?username=owczr&show_icons=true&theme=dark&rank_icon=github" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-stats.vercel.app/api?username=owczr&show_icons=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats.vercel.app/api?username=owczr&show_icons=true&rank_icon=github" /></picture> | <picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&show_icons=true&theme=dark&hide_progress=true&langs_count=10&hide=html&exclude_repo=CarServiceWebsite" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&show_icons=true&hide_progress=true&langs_count=8&hide=html&exclude_repo=CarServiceWebsite" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&hide_progress=true&langs_count=8&hide=html&exclude_repo=CarServiceWebsite" /></picture> |
+## Stats
+
+| <picture><source srcset="https://streak-stats.demolab.com/?user=owczr&theme=dark" media="(prefers-color-scheme: dark)"/><source srcset="https://streak-stats.demolab.com/?user=owczr&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://streak-stats.demolab.com/?user=owczr&theme=light" /></picture> | <picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&show_icons=true&theme=dark&hide_progress=true&langs_count=10&hide=html&exclude_repo=CarServiceWebsite" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&show_icons=true&hide_progress=true&langs_count=8&hide=html&exclude_repo=CarServiceWebsite" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owczr&hide_progress=true&langs_count=8&hide=html&exclude_repo=CarServiceWebsite" /></picture> |
 |-------------------|-------------------|
