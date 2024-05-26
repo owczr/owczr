@@ -28,6 +28,6 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional
     <img src="https://skillicons.dev/icons?i=python,c,bash,lua,sklearn,tensorflow,django,docker,git,azure,arch,ubuntu,windows,neovim,vscode&theme=dark" />
   </a>
 </p>
-<sub>Python / C / Bash / Lua / Scikit-Learn / TensorFlow / Azure / Django / Docker / Git / Arch / Ubuntu / Windows / Neovim / VSCode</sub>
+<sub>Python / C / Bash / Lua / Scikit-Learn / TensorFlow / Django / Docker / Git / Azure / Arch / Ubuntu / Windows / Neovim / VSCode</sub>
 <br clear="left"/>
 <p></p>
