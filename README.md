@@ -25,9 +25,9 @@ I'm an Associate Data Scientist at [Shell](https://shell.com/) with professional
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,bash,lua,sklearn,tensorflow,django,docker,git,azure,arch,ubuntu,windows,neovim,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,rust,bash,lua,sklearn,tensorflow,django,docker,git,azure,linux,neovim&theme=dark" />
   </a>
 </p>
-<sub>Python / C / Bash / Lua / Scikit-Learn / TensorFlow / Django / Docker / Git / Azure / Arch / Ubuntu / Windows / Neovim / VSCode</sub>
+<sub>Python / C / Rust / Bash / Lua / Scikit-Learn / TensorFlow / Django / Docker / Git / Azure / Linux / Neovim </sub>
 <br clear="left"/>
 <p></p>
