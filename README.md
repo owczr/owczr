@@ -2,6 +2,7 @@
 
 <hr>
 
+<h4 align="center">Some things I've used</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,sklearn,tensorflow,django,htmx,tailwind,docker,git,azure,linux,neovim&theme=dark" />
